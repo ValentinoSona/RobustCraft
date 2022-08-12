@@ -83,7 +83,8 @@ body{
 }
 
 .logo-head{
-	width: 150px !important;
+	width: 15vw !important;
+	
 }
 
 .let-col{
@@ -13293,6 +13294,7 @@ html.lt-ie-10 .range > .cell-lg-12 {
 
 .rd-navbar-brand img {
 	width: auto;
+	height: auto;
 }
 
 .rd-navbar-brand .brand__logo-light {
@@ -14616,7 +14618,7 @@ html.lt-ie-10 .range > .cell-lg-12 {
 	text-align: left;
 	top: -1px;
 	left: 56px;
-	height: 56px;
+	height: 80px;
 	display: -ms-flexbox;
 	display: -webkit-flex;
 	display: flex;
@@ -14637,8 +14639,11 @@ html.lt-ie-10 .range > .cell-lg-12 {
 	z-index: 17;
 }
 
+.bg-ayuda{
+	background-color: #bdbdbd;
+}
 .rd-navbar-fixed .rd-navbar-brand img {
-	height: 30px;
+	height: 80px;
 	width: auto;
 }
 
@@ -14655,7 +14660,7 @@ html.lt-ie-10 .range > .cell-lg-12 {
 	top: 0;
 	right: 0;
 	padding: 4px;
-	height: 56px;
+	height: 80px;
 	z-index: 999;
 	border-bottom: 1px solid #f2f3f8;
 }
