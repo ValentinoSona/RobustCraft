@@ -83,7 +83,7 @@ body{
 }
 
 .logo-head{
-	width: 15vw !important;
+	width: 190px ;
 	
 }
 
@@ -13293,7 +13293,6 @@ html.lt-ie-10 .range > .cell-lg-12 {
 }
 
 .rd-navbar-brand img {
-	width: auto;
 	height: auto;
 }
 
